@@ -7,5 +7,6 @@
   PostgreSQL from Pyssword Manager
   logging [logs]
 
-https://user-images.githubusercontent.com/76515078/118399801-91dd0580-b667-11eb-8b16-bdab6ac515d6.mp4
+
+https://user-images.githubusercontent.com/76515078/118400077-c43b3280-b668-11eb-9ebb-a12e90e51250.mp4
 
