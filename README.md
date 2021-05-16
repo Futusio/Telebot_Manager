@@ -6,3 +6,6 @@
   SQLAlchemy [SQL]
   PostgreSQL from Pyssword Manager
   logging [logs]
+
+https://user-images.githubusercontent.com/76515078/118399801-91dd0580-b667-11eb-8b16-bdab6ac515d6.mp4
+
